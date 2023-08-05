@@ -1,0 +1,28 @@
+
+body {
+  background-color: #370fea;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif; /* A fallback font in case the unique font is unavailable */
+}
+
+.page-container {
+  background-color: #2c0eef;
+  color: #333;
+  padding: 20px;
+}
+
+h1, h2 {
+  font-family: 'Your Unique Font', Arial, sans-serif;
+}
+
+section {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.skills li:hover {
+  color: #2b00ff; /* Change this to your desired hover color */
+}
